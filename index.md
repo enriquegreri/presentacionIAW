@@ -8,6 +8,6 @@ El objetivo anterior no es suficiente para alcanzar las destrezas que tiene que 
 
 
 ##OBJETIVO
-''
+
 “Profundizar en los procesos que nos permiten la implantación o despliegue de aplicaciones web en la actualidad.”
-''
+
